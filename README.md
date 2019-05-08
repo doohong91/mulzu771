@@ -1,5 +1,10 @@
 # 물주 *771
 
+```bash
+$ pip freeze > requirements.txt
+$ pip install -r requirements.txt
+```
+
 ## 1) 기술 스택
 
 - python
